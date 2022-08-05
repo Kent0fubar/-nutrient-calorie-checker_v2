@@ -1,4 +1,4 @@
-# nurient_checker_v3-vue
+# nurient_checker_v2-vue
 
 ## Project setup
 ```
